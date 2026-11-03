@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'jf-openhuninn';
+  src: url('fonts/jf-openhuninn.ttf') format('truetype');
+  font-display: swap;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'jf-openhuninn', sans-serif;
+}
+
+canvas {
+  display: block;
+}
